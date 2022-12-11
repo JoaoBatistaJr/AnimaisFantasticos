@@ -231,10 +231,6 @@ body {
   }
 }
 
-dt:hover{
-  cursor: pointer;
-}
-
 .js .js-accordion dd {
   display: none;
 }
