@@ -10,7 +10,6 @@
   display: block;
   animation: show-up .3s forwards;
 }
-::-webkit-slider-runnable-trackd
 
 
 @keyframes show-up{

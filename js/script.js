@@ -6,6 +6,7 @@ import * as teste from './modules/teste.js';
 import initModal from './modules/modal.js';
 import initTooltip from './modules/tooltip.js';
 import initDropdownMenu from './modules/dropdown-menu.js';
+import initMenuMobile from './modules/menu-mobile.js';
 
 teste.teste1()
 teste.teste2()
@@ -20,3 +21,4 @@ initTabNav();
 initModal();
 initTooltip();
 initDropdownMenu();
+initMenuMobile();
